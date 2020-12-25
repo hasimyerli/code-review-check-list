@@ -1,4 +1,4 @@
- #### Not: Bazı maddeler php ve symfony
+**Not:** Bazı kavramlar php, symfony ve doctrine içindir.
 
 # Genel
 - [ ] DRY (Do not Repeat Yourself) prensibine aykırı bir kod var mı?
