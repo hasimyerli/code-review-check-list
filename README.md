@@ -2,7 +2,6 @@
 
 # Genel
 - [ ] DRY (Do not Repeat Yourself) prensibine aykırı bir kod bloğu var mı?
-- [ ] Karmaşık yapılar yorum satırları veya dokümantasyon ile destekleniyor mu?
 - [ ] Kullanılmayan değişken, sınıf veya metot kullanımı var mı?
 - [ ] Constant olarak tanımlanması gereken değerler var mı?
 - [ ] Recursive fonksiyon kullanımı var mı? Gerekli mi?
