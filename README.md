@@ -1,4 +1,4 @@
-**Not:** Bazı kavramlar php, symfony ve doctrine için geçerlidir. Liste güncellenecektir.
+**Not:** Bazı kavramlar php, symfony ve doctrine ve kendi çalıştığım projeler için geçerlidir. Liste güncellenecektir.
 
 # Genel
 - [ ] Kod çalışıyor mu?
@@ -23,7 +23,7 @@
 
 # API
 - [ ] Response template kullanılmış mı?
-- [ ] Gerekli doküman yazılmış mı?
+- [ ] Doküman yazılmış mı?
 - [ ] Postman collection vb. dosyası paylaşılmış mı?
 
 # Log
@@ -32,5 +32,5 @@
 - [ ] Loglanmış veriler gizlilik veya güvenlik ihlali yapıyor mu? (Kredi kartı vb)
 - [ ] Loglama yapılan kanal seçimi doğru mu? (Slack, Sentry vb.)
 
-# Security
+# Güvenlik
 - [ ] ...
