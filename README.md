@@ -1,4 +1,4 @@
-**Not:** Bazı kavramlar php, symfony ve doctrine ve kendi çalıştığım projeler için geçerlidir. Liste güncellenecektir.
+**Not:** Bazı kavramlar php, symfony, doctrine ve kendi çalıştığım projeler için geçerlidir. Liste güncellenecektir.
 
 # Genel
 - [ ] Kod çalışıyor mu?
